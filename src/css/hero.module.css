@@ -1,0 +1,21 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .hero_content {
+    width: 50%;
+  }
+  
+  .hero_image {
+    width: 50%;
+    text-align: center;
+  }
+  
+  .hero_image img {
+    max-width: 100%;
+    height: auto;
+  }
+  

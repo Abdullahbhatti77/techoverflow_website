@@ -4,7 +4,7 @@ import Section2 from './Section2'
 import Section3 from './Section3'
 import Section4 from './Section4'
 // import News from '../homePage/News'
-import Footer from '../commonPages/Footer'
+import Footer from '../../components/Footer'
 
 export default function Services() {
     return (

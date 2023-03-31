@@ -1,6 +1,6 @@
 import React from 'react'
 import Section1 from './Section1'
-import Footer from '../commonPages/Footer'
+import Footer from '../../components/Footer'
 
 export default function Contact() {
     return (

@@ -6,7 +6,7 @@ import Partners from './Partners'
 import Ito from './Ito'
 import Outcome from './Outcome'
 import News from './News'
-import Footer from './Footer'
+import Footer from '../../components/Footer'
 
 
 export default function Home() {

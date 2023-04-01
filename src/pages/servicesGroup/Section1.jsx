@@ -13,7 +13,7 @@ export default function Section1() {
           
         </div>
         <div className={css.hero_image}>
-          <img src="./images/Group1.png" alt="Our Hero" />
+          <img src="./images/group4.svg" alt="Our Hero" />
         </div>
       </section>
     </>

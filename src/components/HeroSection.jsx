@@ -9,7 +9,7 @@ function HeroSection() {
         <button type="button" class="btn btn-info">Lets Talk</button>
       </div>
       <div className={css.hero_image}>
-        <img src="./images/Group2.png" alt="Our Hero" />
+        <img src="./images/Group3.svg" alt="Our Hero" />
       </div>
     </section>
   );

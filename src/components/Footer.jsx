@@ -15,7 +15,7 @@ export default function Footer() {
             </div>
 
             <div style={{padding: '150px'}}>
-                <Row style={{ color: "white" }}>
+                <Row style={{ color: "white" }} xs="1" sm="2" md="1" lg="3" xl="3" className='g-4'>
                     <Col md="4">
                         <h4>Hubs</h4>
                         <p>USA</p>
